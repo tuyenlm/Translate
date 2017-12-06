@@ -1,0 +1,12 @@
+C:\Users\tuyen\Desktop\tuyenlm\C#\Translate\Translate\bin\Debug\Translate.exe.config
+C:\Users\tuyen\Desktop\tuyenlm\C#\Translate\Translate\bin\Debug\Translate.exe
+C:\Users\tuyen\Desktop\tuyenlm\C#\Translate\Translate\bin\Debug\Translate.pdb
+C:\Users\tuyen\Desktop\tuyenlm\C#\Translate\Translate\obj\Debug\Translate.csprojResolveAssemblyReference.cache
+C:\Users\tuyen\Desktop\tuyenlm\C#\Translate\Translate\obj\Debug\Translate.Properties.Resources.resources
+C:\Users\tuyen\Desktop\tuyenlm\C#\Translate\Translate\obj\Debug\Translate.csproj.GenerateResource.Cache
+C:\Users\tuyen\Desktop\tuyenlm\C#\Translate\Translate\obj\Debug\Translate.csproj.CoreCompileInputs.cache
+C:\Users\tuyen\Desktop\tuyenlm\C#\Translate\Translate\obj\Debug\Translate.exe
+C:\Users\tuyen\Desktop\tuyenlm\C#\Translate\Translate\obj\Debug\Translate.pdb
+C:\Users\tuyen\Desktop\tuyenlm\C#\Translate\Translate\obj\Debug\Translate.Form1.resources
+C:\Users\tuyen\Desktop\tuyenlm\C#\Translate\Translate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tuyen\Desktop\tuyenlm\C#\Translate\Translate\bin\Debug\Newtonsoft.Json.xml
